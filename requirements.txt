@@ -1,0 +1,13 @@
+fastapi~=0.115.6
+uvicorn
+aiogram
+asyncpg
+sqlalchemy~=2.0.37
+pydantic~=2.10.5
+apscheduler
+psycopg==3.2.3
+psycopg-binary==3.2.3
+psycopg2-binary==2.9.10
+pydantic-settings~=2.7.1
+starlette~=0.41.3
+alembic~=1.14.1
