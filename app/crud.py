@@ -67,3 +67,4 @@ async def get_product_data(artikul: str) -> Dict[str, Any]:
         except Exception as exc:
             logging.error(f"❗ Произошла непредвиденная ошибка: {exc}")
             raise ValueError(f"❗ Произошла непредвиденная ошибка: {exc}")
+
